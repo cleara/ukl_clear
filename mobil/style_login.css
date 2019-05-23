@@ -1,0 +1,41 @@
+body {
+    background:	url(gambar/2.jpg);
+      font-family: sans-serif;
+    }
+    
+    h1 {
+      color: rgba(29, 29, 29, 0.363);
+    }
+    
+    .login {
+      padding: 0.5cm;
+      margin: 0.1cm auto;
+      width: 9cm;
+      background: #fff;
+      border-radius: 0px;
+    }
+    
+    label {
+      font-size: 10pt;
+      color: #555;
+    }
+    
+    input[type="text"],
+    input[type="password"],
+    textarea {
+      padding: 8px;
+      width: 95%;
+      background: #c0bbbb;
+      border: 0;
+      font-size: 10pt;
+      margin: 6px 0px;
+    }
+    
+    .tombol {
+      background: #3709db;
+      color: #fff;
+      border: 0;
+      padding: 5px 8px;
+      margin: 20px 0px;
+    }
+  
